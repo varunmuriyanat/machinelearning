@@ -1,0 +1,5 @@
+*.csv
+archive.zip
+bin
+lib
+.ipynb_checkpoints
